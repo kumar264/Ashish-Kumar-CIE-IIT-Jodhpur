@@ -1,0 +1,7 @@
+echo "# Ashish-Kumar-CIE-IIT-Jodhpur" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kumar264/Ashish-Kumar-CIE-IIT-Jodhpur.git
+git push -u origin main
