@@ -1,1 +1,3 @@
-# Ashish-Kumar-CIE-IIT-Jodhpur
+# Ashish Kumar 
+## Civil and Infrastructure Engineering
+###### IIT Jodhpur
